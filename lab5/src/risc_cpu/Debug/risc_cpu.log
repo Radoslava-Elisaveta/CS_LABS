@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  risc_cpu.vcxproj -> D:\systemc\systemc-2.3.3\examples\sysc\risc_cpu\Debug\risc_cpu.exe
